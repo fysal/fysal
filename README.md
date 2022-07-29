@@ -1,4 +1,4 @@
-Hi 👋 My name is Faisal
+Faisal Kasozi
 =======================
 
 Full stack developer
