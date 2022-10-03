@@ -6,7 +6,7 @@ Full stack developer
 
 * 🌍  I'm based in Kampala
 * ✉️  You can contact me at [fysal005@gmail.com](mailto:fysal005@gmail.com)
-* 🚀  I'm currently working on [Pro Interns platform](http://pro-interns-demo-client.netlify.app/)
+* 🚀  I'm currently working on [Teddy's Fresh Market](https://teddysfreshmarket.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Typescript, ReactJs, NodeJs, MERN stack, Redux, Python, Laravel, PHP, Dart, Flutter, Solidity, Java
 * ⚡  I'm secretly Spiderman..... But don't tell anyone
